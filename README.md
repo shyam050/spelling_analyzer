@@ -17,6 +17,7 @@ An open-source web-based application that performs English spelling identificati
 ## Screenshots
 
 ![Home Page](screenshots/home.png)
+
 ![Result Page](screenshots/result.png)
 
 ## Technology Stack
