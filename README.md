@@ -14,6 +14,11 @@ An open-source web-based application that performs English spelling identificati
 - **Dark-themed Editor Interface**: Modern, elegant UI inspired by code editors
 - **Compiler-based Architecture**: Built on formal compiler theory with lexical analysis, tokenization, and finite automata
 
+## Screenshots
+
+![Home Page](screenshots/home.png)
+![Result Page](screenshots/result.png)
+
 ## Technology Stack
 
 ### Frontend
